@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1lmNHM3GXnTRSkoPW8qEl43-CGb4HcEuu/view?usp=sharing)
+
 
 <h1 align="center">Welcome 👋, To My Tech Boat</h1>
 <h3 align="center">A dynamic software company driven by innovation and excellence</h3>
